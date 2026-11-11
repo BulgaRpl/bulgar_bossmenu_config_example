@@ -1,2 +1,3 @@
-# bulgar_bossmenu_config_example
-bulgar_bossmenu_config_example
+# BulgaR Boss Menu Script
+
+Preview settings for my paid script
