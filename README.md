@@ -1,0 +1,2 @@
+# bulgar_bossmenu_config_example
+bulgar_bossmenu_config_example
